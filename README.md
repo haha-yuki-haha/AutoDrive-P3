@@ -7,10 +7,10 @@ This is the official implementation of the paper "AutoDrive-P³: Unified Chain o
 
 ## 👥 Authors
 
-**Main Authors:** Yuqi Ye, Zijian Zhang  
-**Contributing Authors:** Junhong Lin, Shangkun Sun, Changhao Peng, Wei Gao (Corresponding Author)
-
+**Main Authors:** [Yuqi Ye](yeyuqi0303@stu.pku.edu.cn), [Zijian Zhang](zijianzhang25@stu.pku.edu.cn)  
+**Contributing Authors:** Junhong Lin, Shangkun Sun, Changhao Peng, [Wei Gao](gaowei262@pku.edu.cn) (Corresponding Author)
 All authors are with the School of Electronic and Computer Engineering, Peking University.
+
 
 ## 📚 Citation
 
@@ -27,16 +27,6 @@ url={https://openreview.net/forum?id=CMU8GxwpUL}
 }
 ```
 
-## 📧 Contact
-
-For questions or issues, please contact:
-- Yuqi Ye: yeyuqi0303@stu.pku.edu.cn
-- Zijian Zhang: zijianzhang25@stu.pku.edu.cn
-- Wei Gao (Corresponding Author): gaowei262@pku.edu.cn
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
