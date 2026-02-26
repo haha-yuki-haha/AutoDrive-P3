@@ -38,7 +38,8 @@ This is the official implementation of the paper "AutoDrive-P³: Unified Chain o
 | ⚙️ **Checkpoint** | 2026.03/04 | 🟡 Soon |
 
 
-
+## 📬 Contact
+If you have any questions, please contact Yuqi Ye via Email (yeyuqi0303@stu.pku.edu.cn) or WeChat (yuki-hahaha-yuki).
 
 ## 📚 Citation
 
