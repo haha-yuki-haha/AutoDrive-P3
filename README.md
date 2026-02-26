@@ -40,4 +40,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgements
 
-We thank all reviewers and area chairs for their valuable feedback. This work was supported by [EadyR1](https://github.com/hiyouga/EasyR1), [trl](https://github.com/huggingface/trl).
+This work was supported by [EadyR1](https://github.com/hiyouga/EasyR1), [trl](https://github.com/huggingface/trl).
