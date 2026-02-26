@@ -14,7 +14,6 @@
 </div>
 
 ## 📖 Overview
-
 This is the official implementation of the paper "AutoDrive-P³: Unified Chain of Perception–Prediction–Planning Thought via Reinforcement Fine-Tuning", accepted at ICLR 2026 🎉. 
 
 
@@ -41,16 +40,13 @@ This is the official implementation of the paper "AutoDrive-P³: Unified Chain o
 ## 📬 Contact
 If you have any questions, please contact Yuqi Ye via Email (yeyuqi0303@stu.pku.edu.cn) or WeChat (yuki-hahaha-yuki).
 
-## 📚 Citation
-
-If you find this work useful for your research, please cite our paper:
-
 
 ## 🙏 Acknowledgements
-
 AutoDrive-P³ is greatly inspired by the following outstanding contributions to the open-source community: [EadyR1](https://github.com/hiyouga/EasyR1), [trl](https://github.com/huggingface/trl), [NAVSIM](https://github.com/autonomousvision/navsim).
 
 
+## 📚 Citation
+If you find this work useful for your research, please cite our paper:
 ```bibtex
 @inproceedings{
 ye2026autodrivetextp,
