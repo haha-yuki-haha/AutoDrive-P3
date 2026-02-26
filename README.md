@@ -1,7 +1,4 @@
-# AutoDrive-P3
-[ICLR 2026] An official implementation of AutoDrive-P3: Unified Chain of Perception–Prediction–Planning Thought via Reinforcement Fine-Tuning
 # AutoDrive-P³: Unified Chain of Perception–Prediction–Planning Thought via Reinforcement Fine-Tuning
-
 [ICLR 2026] Official implementation of AutoDrive-P³: Unified Chain of Perception–Prediction–Planning Thought via Reinforcement Fine-Tuning
 
 ## 📖 Overview
@@ -43,4 +40,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgements
 
-We thank all reviewers and area chairs for their valuable feedback. This work was supported by [your funding sources here](https://github.com/hiyouga/EasyR1)].
+We thank all reviewers and area chairs for their valuable feedback. This work was supported by [EadyR1](https://github.com/hiyouga/EasyR1), [trl]([https://github.com/hiyouga/EasyR1](https://github.com/huggingface/trl))].
