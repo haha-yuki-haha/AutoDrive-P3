@@ -45,6 +45,12 @@ If you have any questions, please contact Yuqi Ye via Email (yeyuqi0303@stu.pku.
 
 If you find this work useful for your research, please cite our paper:
 
+
+## 🙏 Acknowledgements
+
+AutoDrive-P³ is greatly inspired by the following outstanding contributions to the open-source community: [EadyR1](https://github.com/hiyouga/EasyR1), [trl](https://github.com/huggingface/trl), [NAVSIM](https://github.com/autonomousvision/navsim).
+
+
 ```bibtex
 @inproceedings{
 ye2026autodrivetextp,
@@ -55,11 +61,4 @@ year={2026},
 url={https://openreview.net/forum?id=CMU8GxwpUL}
 }
 ```
-Main Authors: Yuqi Ye (yeyuqi0303@stu.pku.edu.cn), Zijian Zhang (zijianzhang25@stu.pku.edu.cn). 
-
-Corresponding Author: Wei Gao (gaowei262@pku.edu.cn).
-
-
-## 🙏 Acknowledgements
-
-This work was supported by [EadyR1](https://github.com/hiyouga/EasyR1), [trl](https://github.com/huggingface/trl).
+Main Authors: Yuqi Ye (yeyuqi0303@stu.pku.edu.cn), Zijian Zhang (zijianzhang25@stu.pku.edu.cn). Corresponding Author: Wei Gao (gaowei262@pku.edu.cn).
