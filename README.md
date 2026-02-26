@@ -57,4 +57,4 @@ year={2026},
 url={https://openreview.net/forum?id=CMU8GxwpUL}
 }
 ```
-Main Authors: Yuqi Ye (yeyuqi0303@stu.pku.edu.cn), Zijian Zhang (zijianzhang25@stu.pku.edu.cn). Corresponding Author: Wei Gao (gaowei262@pku.edu.cn).
+Main Authors: Yuqi Ye, Zijian Zhang. Corresponding Author: Wei Gao (gaowei262@pku.edu.cn).
