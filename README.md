@@ -14,7 +14,7 @@
 </div>
 
 ## 📖 Overview
-This is the official implementation of the paper AutoDrive-P³ Unified Chain of Perception–Prediction–Planning Thought via Reinforcement Fine-Tuning, accepted at ICLR 2026 🎉. 
+This is the official implementation of the paper AutoDrive-P³: Unified Chain of Perception–Prediction–Planning Thought via Reinforcement Fine-Tuning, accepted at ICLR 2026 🎉. 
 
 
 ## 📅 Release Planning ✅
@@ -56,4 +56,4 @@ year={2026},
 url={httpsopenreview.netforumid=CMU8GxwpUL}
 }
 ```
-Main Authors Yuqi Ye, Zijian Zhang. Corresponding Author Wei Gao.
+Main Authors: Yuqi Ye, Zijian Zhang. Corresponding Author: Wei Gao.
