@@ -1,17 +1,17 @@
-div align=center
-img src=assetsimagesAutoDrive-P3.png width=200
-div
+<div align="center">
+  <img src="assets/images/AutoDrive-P3.png" width="200">
+</div>
 
-# AutoDrive-P³ Unified Chain of Perception–Prediction–Planning Thought via Reinforcement Fine-Tuning
+# AutoDrive-P³: Unified Chain of Perception–Prediction–Planning Thought via Reinforcement Fine-Tuning
 
-div align=center
-  a href=httpsopenreview.netforumid=CMU8GxwpUL
-    img src=httpsimg.shields.iobadgePaper-OpenReview-red alt=Paper
-  a
-  a href=httpsgithub.comhaha-yuki-hahaAutoDrive-P3
-    img src=httpsimg.shields.iobadgeCode-GitHub-greenlogo=github alt=GitHub Code
-  a
-div
+<div align="center">
+  <a href="https://openreview.net/forum?id=CMU8GxwpUL">
+    <img src="https://img.shields.io/badge/Paper-OpenReview-red" alt="Paper">
+  </a>
+  <a href="https://github.com/haha-yuki-haha/AutoDrive-P3">
+    <img src="https://img.shields.io/badge/Code-GitHub-green?logo=github" alt="GitHub Code">
+  </a>
+</div>
 
 ## 📖 Overview
 This is the official implementation of the paper AutoDrive-P³ Unified Chain of Perception–Prediction–Planning Thought via Reinforcement Fine-Tuning, accepted at ICLR 2026 🎉. 
