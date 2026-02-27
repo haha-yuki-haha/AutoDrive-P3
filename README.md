@@ -21,20 +21,19 @@ This is the official implementation of the paper AutoDrive-P³ Unified Chain of 
 
 ### 🗓️ nuScenes Open source schedule
 
- Item  Time  State 
-----------------------
- 📊 Dataset  2026.0304  🟡 Soon 
- 💻 Code  2026.0304  🟡 Soon 
- 🎯 Checkpoint  2026.0304  🟡 Soon 
-
+| Item | Time | State |
+|:----:|:----:|:-----:|
+| 📊 Dataset | 2026.03/04 | 🟡 Soon |
+| 💻 Code | 2026.03/04 | 🟡 Soon |
+| 🎯 Checkpoint | 2026.03/04 | 🟡 Soon |
 
 ### 📦 NAVSIM Open source schedule
 
- Item  Time  State 
-----------------------
- 🗂️ Dataset  2026.0304  🟡 Soon 
- 📝 Code  2026.0304  🟡 Soon 
- ⚙️ Checkpoint  2026.0304  🟡 Soon 
+| Item | Time | State |
+|:----:|:----:|:-----:|
+| 🗂️ Dataset | 2026.03/04 | 🟡 Soon |
+| 📝 Code | 2026.03/04 | 🟡 Soon |
+| ⚙️ Checkpoint | 2026.03/04 | 🟡 Soon |
 
 
 ## 📬 Contact
