@@ -56,4 +56,4 @@ year={2026},
 url={httpsopenreview.netforumid=CMU8GxwpUL}
 }
 ```
-Main Authors: Yuqi Ye, Zijian Zhang. Corresponding Author: Wei Gao.
+Core contributors: Yuqi Ye, Zijian Zhang. Corresponding Author: Wei Gao.
