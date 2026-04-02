@@ -23,17 +23,17 @@ This is the official implementation of the paper AutoDrive-P³: Unified Chain of
 
 | Item | Time | State |
 |:----:|:----:|:-----:|
-| 📊 Dataset | 2026.03/04 | 🟡 Soon |
-| 💻 Code | 2026.03/04 | 🟡 Soon |
-| 🎯 Checkpoint | 2026.03/04 | 🟡 Soon |
+| 📊 Dataset | 2026.04 | 🟡 Soon |
+| 💻 Code | 2026.04 | 🟡 Soon |
+| 🎯 Checkpoint | 2026.04 | 🟡 Soon |
 
 ### 📦 NAVSIM Open source schedule
 
 | Item | Time | State |
 |:----:|:----:|:-----:|
-| 🗂️ Dataset | 2026.03/04 | 🟡 Soon |
-| 📝 Code | 2026.03/04 | 🟡 Soon |
-| ⚙️ Checkpoint | 2026.03/04 | 🟡 Soon |
+| 🗂️ Dataset | 2026.04 | 🟡 Soon |
+| 📝 Code | 2026.04 | 🟡 Soon |
+| ⚙️ Checkpoint | 2026.04 | 🟡 Soon |
 
 
 ## 📬 Contact
@@ -56,4 +56,3 @@ year={2026},
 url={httpsopenreview.netforumid=CMU8GxwpUL}
 }
 ```
-Core contributors: Yuqi Ye, Zijian Zhang. Corresponding Author: Wei Gao.
